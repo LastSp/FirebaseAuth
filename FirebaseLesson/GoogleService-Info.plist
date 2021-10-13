@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>307064394208-9r55egdrqd9f5jgnkv85s0vq3hb8ovp2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.307064394208-9r55egdrqd9f5jgnkv85s0vq3hb8ovp2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9Dm5jj8Lijo9F99Rd9X7C-pOT8shsB7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>307064394208</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>AndrewKolesnikov.FirebaseLesson</string>
+	<key>PROJECT_ID</key>
+	<string>emailpass-bc0c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emailpass-bc0c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:307064394208:ios:661cbe5465a31e60949b85</string>
+</dict>
+</plist>

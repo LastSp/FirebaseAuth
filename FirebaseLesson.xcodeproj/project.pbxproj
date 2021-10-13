@@ -13,6 +13,7 @@
 		F5622D1327171CFC00C176D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5622D1127171CFC00C176D3 /* Main.storyboard */; };
 		F5622D1527171CFD00C176D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5622D1427171CFD00C176D3 /* Assets.xcassets */; };
 		F5622D1827171CFD00C176D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5622D1627171CFD00C176D3 /* LaunchScreen.storyboard */; };
+		F5622D2027171FD400C176D3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F5622D1F27171FD400C176D3 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F5622D1427171CFD00C176D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5622D1727171CFD00C176D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5622D1927171CFD00C176D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5622D1F27171FD400C176D3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F5622D1127171CFC00C176D3 /* Main.storyboard */,
 				F5622D1427171CFD00C176D3 /* Assets.xcassets */,
 				F5622D1627171CFD00C176D3 /* LaunchScreen.storyboard */,
+				F5622D1F27171FD400C176D3 /* GoogleService-Info.plist */,
 				F5622D1927171CFD00C176D3 /* Info.plist */,
 			);
 			path = FirebaseLesson;
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5622D1827171CFD00C176D3 /* LaunchScreen.storyboard in Resources */,
+				F5622D2027171FD400C176D3 /* GoogleService-Info.plist in Resources */,
 				F5622D1527171CFD00C176D3 /* Assets.xcassets in Resources */,
 				F5622D1327171CFC00C176D3 /* Main.storyboard in Resources */,
 			);
